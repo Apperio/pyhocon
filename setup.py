@@ -39,22 +39,19 @@ setup(
         'License :: OSI Approved :: Apache Software License',
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Programming Language :: Python',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.4',
-        'Programming Language :: Python :: 3.5',
-        'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
+        'Programming Language :: Python :: 3.12',
     ],
     packages=[
         'pyhocon',
     ],
     install_requires=[
-        'pyparsing~=2.0;python_version<"3.0"',
-        'pyparsing>=2,<4;python_version>="3.0"',
+        'pyparsing>=3.0.0',
     ],
     extras_require={
         'Duration': ['python-dateutil>=2.8.0']
