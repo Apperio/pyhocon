@@ -394,6 +394,7 @@ assert config == d
   - Jakub Kubík ([@M0dEx](https://github.com/M0dEx))
   - Jakub Szewczyk ([@jakub-szewczyk-exa](https://github.com/jakub-szewczyk-exa))
   - Alejandro Rodriguez-Morantes ([@alejandrorm](https://github.com/alejandrorm))
+  - Cribber ([@CribberSix](https://github.com/CribberSix))
 
 ### Thanks
 

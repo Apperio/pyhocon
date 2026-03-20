@@ -1,5 +1,9 @@
 # Changelog
 
+# Version 0.3.63
+
+* Fix wrong parameter name for pyparsing Keyword (@CribberSix) [#343]
+
 # Version 0.3.62
 
 * Migrate to pyparsing 3.x and drop Python 2.7 support (@alejandrorm) [#337]
